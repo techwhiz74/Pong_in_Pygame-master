@@ -1,0 +1,7 @@
+[
+    {"link": "example.com", "type": "legitimate"},
+    {"link": "phishing.com", "type": "phishing"},
+    {"link": "secure.com", "type": "legitimate"},
+    {"link": "fake.com", "type": "phishing"},
+    {"link": "fake.com", "type": "phishing"}
+]
